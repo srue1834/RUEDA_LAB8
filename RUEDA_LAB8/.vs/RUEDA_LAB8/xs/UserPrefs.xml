@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{58973C45-FD02-F172-F183-7287C861E9FD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CuartoLuz.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="134" Column="12" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" Line="57" Column="1" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs" />
+      <File FileName="../Inteligencia artificial/Assets/Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="23" Column="14" />
+      <File FileName="Assets/Scripts/CuartoLuz.cs" Line="15" Column="10" />
+      <File FileName="../Inteligencia artificial/Assets/Enemigo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Etiqueta.cs" Line="12" Column="32" />
+      <File FileName="../Archivos de zip /RUEDA_LAB5/Assets/Scripts/Respawn.cs" Line="14" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RUEDA_LAB8" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CuartoLuz.cs" selected="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Characters" expanded="True">
+                  <Node name="FirstPersonCharacter" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f2e35ca-d7a4-4d3a-8783-6ea7e714c7ab" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
